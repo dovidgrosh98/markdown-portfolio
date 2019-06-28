@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Stormlight Archives
+    * The Way of Kings
+    * Words of Radiance
+    * Oathbringer
