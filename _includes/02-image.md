@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of self](https://res.cloudinary.com/dg98/image/upload/v1552327868/david_profile_photo.png)
